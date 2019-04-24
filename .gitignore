@@ -1,5 +1,2 @@
-__pycache_/
-*.py[cod]
-*spy.class
-
+__pycache__/
 *.sqlite3
