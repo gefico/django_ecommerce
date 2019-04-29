@@ -1,0 +1,8 @@
+git status
+git branch
+git add .
+git checkout -b [nome da branch]
+git commit -m "mensagem"
+git push origin [nome da branch]
+git merge [nome da branch]
+ 
